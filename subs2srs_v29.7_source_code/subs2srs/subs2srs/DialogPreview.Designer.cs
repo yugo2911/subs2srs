@@ -43,7 +43,6 @@
       this.pictureBoxImage = new System.Windows.Forms.PictureBox();
       this.pictureBoxSubs1 = new System.Windows.Forms.PictureBox();
       this.pictureBoxSubs2 = new System.Windows.Forms.PictureBox();
-      this.textBoxSubs1 = new System.Windows.Forms.TextBox();
       this.textBoxSubs2 = new System.Windows.Forms.TextBox();
       this.labelSubs2 = new System.Windows.Forms.Label();
       this.labelSubs1 = new System.Windows.Forms.Label();
